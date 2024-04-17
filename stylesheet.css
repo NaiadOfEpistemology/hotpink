@@ -1,0 +1,28 @@
+body{
+    background-image:url(bg.gif);
+}
+h1{
+    font-family: Georgia, ; Times, serif;
+    color: beige;
+    text-align: center;
+}
+p, footer{
+    
+        font-family: Georgia, ; Times, serif;
+        color: beige;
+        font-style:italic
+        
+    
+}
+footer {
+    background-color: transparent;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    font-family: Georgia, ; Times, serif;
+    color: beige;
+    font-style:italic
+  }
