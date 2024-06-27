@@ -1,0 +1,16 @@
+body{
+    background-image:url(bg.gif);
+}
+h1{
+    font-family: Georgia;
+    color: beige;
+    text-align: center;
+}
+p, footer{
+    
+        font-family: Georgia;
+        color: beige;
+        font-style:italic
+        
+    
+}

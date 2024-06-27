@@ -2,13 +2,13 @@ body{
     background-image:url(bg.gif);
 }
 h1{
-    font-family: Georgia, ; Times, serif;
+    font-family: Georgia;
     color: beige;
     text-align: center;
 }
 p, footer{
     
-        font-family: Georgia, ; Times, serif;
+        font-family: Georgia;
         color: beige;
         font-style:italic
         
@@ -18,11 +18,26 @@ footer {
     background-color: transparent;
     padding: 20px;
     text-align: center;
-    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
-    font-family: Georgia, ; Times, serif;
+    font-family: Georgia;
     color: beige;
     font-style:italic
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-around; 
+    margin: 20px;
+  }
+  .button-container button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: transparent;
+    border: 2px solid beige;
+    color: beige;
+    font-family: Georgia;
+    cursor: pointer;
+    
   }
