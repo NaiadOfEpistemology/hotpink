@@ -18,6 +18,10 @@ footer {
     background-color: transparent;
     padding: 20px;
     text-align: center;
+<<<<<<< HEAD
+=======
+    /*position: fixed;*/
+>>>>>>> 8575de4e510dffa468c89ea36cefc81c459635d9
     bottom: 0;
     left: 0;
     width: 100%;
@@ -25,6 +29,7 @@ footer {
     color: beige;
     font-style:italic
   }
+<<<<<<< HEAD
   
   .button-container {
     display: flex;
@@ -41,3 +46,5 @@ footer {
     cursor: pointer;
     
   }
+=======
+>>>>>>> 8575de4e510dffa468c89ea36cefc81c459635d9
